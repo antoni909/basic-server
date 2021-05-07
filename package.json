@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/antoni909/basic-server/issues"
   },
-  "homepage": "https://github.com/antoni909/basic-server#readme"
+  "homepage": "https://github.com/antoni909/basic-server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^9.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.7"
+  }
 }
